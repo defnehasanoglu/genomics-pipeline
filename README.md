@@ -1,6 +1,7 @@
 # 🧬 Genomics & Variant Calling Pipeline
 
-(This is for an MSc project)  
+(This is for a MSc project)  
+
 This pipeline provides a template workflow for human genomic data analysis, focusing on Germline Variant Calling (SNPs and Indels) using the GRCh38 reference genome.
 
 ---
